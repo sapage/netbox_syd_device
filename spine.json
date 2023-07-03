@@ -1,0 +1,23 @@
+[   {
+        "name": "spine01.syd01",
+        "device_role": "spine",
+        "manufacturer": "Cisco",
+        "device_type": "Nexus 9336C-FX2",
+        "status": "active",
+        "site": "SYD",
+        "rack": "01",
+        "position": "29",
+        "face": "front"
+    },
+    {
+        "name": "spine02.syd01",
+        "device_role": "spine",
+        "manufacturer": "Cisco",
+        "device_type": "Nexus 9336C-FX2",
+        "status": "active",
+        "site": "SYD",
+        "rack": "02",
+        "position": "29",
+        "face": "front"
+    }
+ ]
